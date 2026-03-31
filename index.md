@@ -39,7 +39,7 @@ Practiced identifying incident scope, reporting findings, and communicating reco
 [Resume](./resume.pdf)
 
 ## LinkedIn
-https://www.linkedin.com/in/nick-kantzavelos-b95385308/
+(https://www.linkedin.com/in/nick-kantzavelos-b95385308/)
 
 ## Contact
 - Email: Nickkantz12@gmail.com
