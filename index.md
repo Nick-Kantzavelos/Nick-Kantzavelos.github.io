@@ -23,7 +23,7 @@ I am a cybersecurity student at Montreat College building hands-on experience in
 - Network analysis
 
 ## Projects
-### Windows Server Security Baseline
+### [Windows Server Security Baseline](./windows-server-baseline.html)
 Created a secure baseline for a Windows file server, including access control, firewall settings, validation steps, and administrative standards.
 
 ### AWS Security and Troubleshooting
